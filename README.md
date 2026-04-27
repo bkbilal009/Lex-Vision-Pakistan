@@ -1,2 +1,14 @@
-# Lex-Vision-Pakistan
-An advanced Retrieval-Augmented Generation (RAG) system utilizing Gemini 2.5 Flash to analyze and query Supreme Court of Pakistan legal precedents.
+---
+title: Supreme RAG Lab
+emoji: 🚀
+colorFrom: indigo
+colorTo: purple
+sdk: gradio
+sdk_version: 6.13.0
+app_file: app.py
+pinned: false
+license: mit
+short_description: Experimental judicial AI research space.
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
